@@ -18,7 +18,7 @@ void main() {
               text: 'Single ',
               style: TextStyle(
                   color: Colors.cyan,
-                  fontSize: 30,
+                  fontSize: 35,
                   fontWeight: FontWeight.bold)),
           TextSpan(
               text: ' Line ',
@@ -31,11 +31,11 @@ void main() {
           TextSpan(
               text: ' Multiple ',
               style: TextStyle(
-                  color: Colors.amber,
+                  color: Colors.orange,
                   fontSize: 30,
-                  fontStyle: FontStyle.italic,
+                  fontFamily: 'FirstFont',
                   fontWeight: FontWeight.bold,
-                  letterSpacing: 3),
+                  letterSpacing: 4),
                 ),
           TextSpan(
               text: 'Styles ',
