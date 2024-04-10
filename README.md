@@ -1,5 +1,3 @@
-![Screenshot_20240410_222144-portrait](https://github.com/sadhana5953/rich_text/assets/148869257/62d94b65-22b5-4881-8695-b1a607ec787e)# rich_text
-
 A new Flutter project.
 
 ## Getting Started
